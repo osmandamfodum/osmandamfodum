@@ -22,11 +22,22 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
 - **Databases | قواعد البيانات**:  
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />  
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />  
 
 - **AI & ML | الذكاء الاصطناعي والتعلم الآلي**:  
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />  
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
   <img src="https://img.shields.io/badge/Pandas-2CABE3?style=for-the-badge&logo=pandas&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=huggingface&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Chatbot-00C853?style=for-the-badge&logo=rasa&logoColor=white" />  
+
+- **IoT & Robotics | إنترنت الأشياء والروبوتات**:  
+  <img src="https://img.shields.io/badge/KNX-FFD700?style=for-the-badge&logo=knx&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Smart%20Home-4285F4?style=for-the-badge&logo=google-home&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Robotics-0078D4?style=for-the-badge&logo=robot-framework&logoColor=white" />  
 
 - **Tools & Others | أدوات أخرى**:  
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />  
@@ -55,6 +66,7 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
    - Tech: Python, TensorFlow, Flutter  
    - Link: (Private Repo - Contact for details)
 
+![4_21623110230](https://github.com/user-attachments/assets/57401047-9c32-4c61-b4bd-3821a58cc481)
 
 
 
@@ -64,6 +76,7 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
    - Tech: Python, OpenCV  
    - Link: (Private Repo - Contact for details)
 
+<img width="1920" height="1080" alt="58502151-9884c080-81a3-11e9-9a90-fec29940ee5a" src="https://github.com/user-attachments/assets/c705545e-b0a6-45c9-9493-c502534573e8" />
 
 
 
@@ -82,6 +95,7 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
    - Tech: Python, TensorFlow  
    - Link: (Private Repo - Contact for details)
 
+<img width="850" height="497" alt="Screenshots-of-the-Mobile-App-for-Detecting-Plant-Leaf-Diseases-a-Landing-Screen-b" src="https://github.com/user-attachments/assets/d1689aaa-f865-4385-a1a5-370d405cfbd1" />
 
 
 
@@ -109,4 +123,3 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
 ### Connect with Me | تواصل معي
 Feel free to reach out for collaborations or discussions on AI, software development, or tech innovations!  
 لا تتردد في التواصل للتعاون أو مناقشات حول الذكاء الاصطناعي، تطوير البرمجيات، أو الابتكارات التكنولوجية!
-
