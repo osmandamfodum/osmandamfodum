@@ -110,10 +110,3 @@ Highly skilled Artificial Intelligence Engineer and Software Engineer with 4 yea
 Feel free to reach out for collaborations or discussions on AI, software development, or tech innovations!  
 لا تتردد في التواصل للتعاون أو مناقشات حول الذكاء الاصطناعي، تطوير البرمجيات، أو الابتكارات التكنولوجية!
 
----
-
-**Instructions to Set Up:**  
-1. Create a repository named `osmandamfodum` (your username) if not exists.  
-2. Add a file named `README.md` with the above content.  
-3. Commit and push – your profile will update automatically!  
-إذا كان لديك أي تعديلات، قل لي 😊
